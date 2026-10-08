@@ -1,0 +1,6 @@
+initiative_id,month,cum_cost_inr,cum_value_inr,realised_roi,adoption_share,risk_adj_roi,p10_roi,p90_roi,priority_score,recommendation,reason
+DF,12,24000000,17720955,-0.262,0.954,1.227,0.902,1.977,66.9,Scale,"High risk-adjusted ROI, strong adoption, metric at target"
+DR,12,16000000,2827264,-0.823,0.85,-0.35,-0.516,-0.207,45.8,Stop,P90 ROI below zero
+PM,12,12000000,24392610,1.033,0.8,3.057,4.721,8.255,59.6,Stop,3 consecutive months of drift
+CS,12,16000000,10079091,-0.37,0.3,0.441,0.724,1.296,36.0,Pivot,Adoption below 40%
+RA,12,12000000,2954872,-0.754,0.667,0.166,0.12,0.546,36.6,Continue,"Within normal range, keep monitoring"

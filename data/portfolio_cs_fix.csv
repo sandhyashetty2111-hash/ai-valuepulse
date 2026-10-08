@@ -1,0 +1,6 @@
+initiative_id,month,cum_cost_inr,cum_value_inr,realised_roi,adoption_share,risk_adj_roi,p10_roi,p90_roi,priority_score,recommendation,reason
+DF,12,30000000,17720955,-0.409,0.954,0.791,0.521,1.382,66.4,Continue,"Within normal range, keep monitoring"
+DR,12,20000000,2827264,-0.859,0.85,-0.47,-0.613,-0.366,43.9,Stop,P90 ROI below zero
+PM,12,15000000,24392610,0.626,0.8,2.346,3.577,6.404,56.8,Stop,3 consecutive months of drift
+CS,12,20000000,20185640,0.009,0.592,1.961,1.72,2.622,54.9,Continue,"Within normal range, keep monitoring"
+RA,12,15000000,2954872,-0.803,0.667,-0.057,-0.104,0.237,31.1,Continue,"Within normal range, keep monitoring"
