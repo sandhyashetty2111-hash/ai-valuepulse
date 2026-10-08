@@ -1,0 +1,7 @@
+"initiative_id,name,ai_type,stage,budget_inr,strategic_score,scalability_score,customer_score"
+"DF,Demand forecasting,predictive,Scale,30000000,4,5,3"
+"DR,Late-delivery risk,predictive,Validate,20000000,3,4,5"
+"PM,Predictive maintenance,predictive,Pilot,15000000,3,3,2"
+"CS,Support copilot,genai,Pilot,20000000,4,4,5"
+"RA,Reorder agent,agentic,Discovery,15000000,5,4,2"
+Budgets must add up to 100000000 (Rs 10 Cr). Scores are 1–5
