@@ -1,0 +1,13 @@
+initiative_id,month,metric,value,baseline,higher_is_better
+DF,1,wape,0.389,0.439,no
+DF,2,wape,0.37,0.421,no
+DF,3,wape,0.342,0.4,no
+DF,4,wape,0.384,0.459,no
+DF,5,wape,0.38,0.446,no
+DF,6,wape,0.447,0.574,no
+DF,7,wape,0.443,0.498,no
+DF,8,wape,0.468,0.477,no
+DF,9,wape,0.38,0.435,no
+DF,10,wape,0.415,0.432,no
+DF,11,wape,0.377,0.429,no
+DF,12,wape,0.271,0.337,no
